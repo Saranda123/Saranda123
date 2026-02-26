@@ -15,9 +15,3 @@
 - Email: Santiarandah7@gmail.com
 
 ⚡ Fun fact: I combine real estate sales mindset with programming logic — I love building systems that actually sell 🚀
-
-
-Here are some ideas to get you started:
-
-
--->
