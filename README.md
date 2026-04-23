@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Santiago Aranda
 
 # 💫 About Me:
-🔭 I’m currently working on Oferksa – building digital solutions and improving my full-stack skills.<br>🌱 I’m currently learning Web Development (React, Node.js, MySQL, Express) and strengthening my backend architecture knowledge.<br>👯 I’m looking to collaborate on Web Apps, Real Estate Tech projects, and Full-Stack applications.<br>🤔 I’m looking for help with advanced backend patterns, authentication systems, and scalable database design.<br>💬 Ask me about React basics, Node.js APIs, MySQL, or how I’m building my developer journey from scratch.<br>📫 How to reach me:<br>LinkedIn: santiago aranda<br>Email: Santiarandah7@gmail.com<br>⚡ Fun fact: I combine real estate sales mindset with programming logic — I love building systems that actually sell 🚀<br><br>
+🔭 I’m currently working on Oferksa – building digital solutions and improving my full-stack skills.<br>🌱 I’m currently learning Web Development (Python, FastAPI y PostgreSQL.ss) and strengthening my backend architecture knowledge.<br>👯 I’m looking to collaborate on Web Apps, Real Estate Tech projects, and Full-Stack applications.<br>🤔 I’m looking for help with advanced backend patterns, authentication systems, and scalable database design.<br>💬 Ask me about React basics, Node.js APIs, MySQL, or how I’m building my developer journey from scratch.<br>📫 How to reach me:<br>LinkedIn: santiago aranda<br>Email: Santiarandah7@gmail.com<br>⚡ Fun fact: I combine real estate sales mindset with programming logic — I love building systems that actually sell 🚀<br><br>
 
 
 ## 🌐 Socials:
